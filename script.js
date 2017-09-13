@@ -219,7 +219,7 @@ function updateLog() {
 
 function clearLogs() {
 	logContent = "";
-	saveLog("Welcome to Insanik's CSGOArena Bot");
+	saveLog("Welcome to David's CSGOArena Bot");
 }
 
 function saveLog(message) {
