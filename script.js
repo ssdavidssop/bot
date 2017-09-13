@@ -16,7 +16,7 @@ var lang;
 var canStart = false;
 
 var profUsername = document.querySelector("#top-bar-profile-username").textContent;
-console.log("%c" + "CSGOArena Bot - Made by Insanic", "color: red; font-weight: bold; font-size: 32px;");
+console.log("%c" + "CSGOArena Bot - Made by David", "color: red; font-weight: bold; font-size: 32px;");
 console.log("%c" + "(©) All right reserved by the developer", "color: red; font-weight: bold; font-size: 16px;");
 console.log("%c" + "Welcome " + profUsername + ", use the bot at your own risk!" , "color: red; font-weight: bold;");
 var xhr = new XMLHttpRequest();
@@ -56,28 +56,28 @@ var currentHour;
 var currentMinute;
 var currentSecond;
 
-var phrase1 = "my gad";
-var phrase2 = "got eeemm";
-var phrase3 = "WTF";
-var phrase4 = "deyuuumm"
-var phrase5 = "rEkt noobs"
-var phrase6 = "YEESSS!!"
-var phrase7 = "EZ 5$ man"
-var phrase8 = "that was nice"
-var phrase9 = "good job everyone"
-var phrase10 = "gg"
-var phrase11 = "wp"
-var phrase12 = "gj"
-var phrase13 = "brb :D"
-var phrase14 = "woot!!"
-var phrase15 = "my god <3"
-var phrase16 = "my turn :D"
-var phrase17 = "somaliTeam"
-var phrase18 = "i WON"
-var phrase19 = "JAG VANN"
-var phrase20 = "v?"
-var phrase21 = "gr8 maan"
-var phrase22 = "shout out to ma boy"
+var phrase1 = "gg";
+var phrase2 = "gg";
+var phrase3 = "haha ez";
+var phrase4 = ""
+var phrase5 = ""
+var phrase6 = ""
+var phrase7 = ""
+var phrase8 = ""
+var phrase9 = ""
+var phrase10 = ""
+var phrase11 = ""
+var phrase12 = ""
+var phrase13 = ""
+var phrase14 = ""
+var phrase15 = ""
+var phrase16 = ""
+var phrase17 = ""
+var phrase18 = ""
+var phrase19 = ""
+var phrase20 = "gg"
+var phrase21 = "ez"
+var phrase22 = ""
 
 function randomPhrase() {
 	phraseNumber = Math.floor((Math.random() * 22) + 1);
