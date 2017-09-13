@@ -404,7 +404,7 @@ function logIt(message) {
 updateLog();
 
 if (!wlcMessage) {
-logIt("Welcome to Insanik's CSGOArena Bot");
+logIt("Welcome to David's CSGOArena Bot");
 wlcMessage = true;
 }
 
