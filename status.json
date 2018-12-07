@@ -4,6 +4,6 @@
     "admin": false,
     "reason": "We are currently encountering bugs. Please be patient!",
     "message": "",
-    "source": "https://cdn.rawgit.com/ssdavidssop/bot/2b999946/script.js"
+    "source": "https://cdn.jsdelivr.net/gh/ssdavidssop/bot@2b999946/script.js"
   }
 }
